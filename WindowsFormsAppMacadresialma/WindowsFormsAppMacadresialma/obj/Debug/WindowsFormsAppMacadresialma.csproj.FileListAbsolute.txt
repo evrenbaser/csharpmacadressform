@@ -1,0 +1,14 @@
+c:\users\user\source\repos\WindowsFormsAppMacadresialma\WindowsFormsAppMacadresialma\bin\Debug\WindowsFormsAppMacadresialma.exe.config
+c:\users\user\source\repos\WindowsFormsAppMacadresialma\WindowsFormsAppMacadresialma\bin\Debug\WindowsFormsAppMacadresialma.exe
+c:\users\user\source\repos\WindowsFormsAppMacadresialma\WindowsFormsAppMacadresialma\bin\Debug\WindowsFormsAppMacadresialma.pdb
+c:\users\user\source\repos\WindowsFormsAppMacadresialma\WindowsFormsAppMacadresialma\obj\Debug\WindowsFormsAppMacadresialma.csprojAssemblyReference.cache
+c:\users\user\source\repos\WindowsFormsAppMacadresialma\WindowsFormsAppMacadresialma\obj\Debug\WindowsFormsAppMacadresialma.Properties.Resources.resources
+c:\users\user\source\repos\WindowsFormsAppMacadresialma\WindowsFormsAppMacadresialma\obj\Debug\WindowsFormsAppMacadresialma.csproj.GenerateResource.cache
+c:\users\user\source\repos\WindowsFormsAppMacadresialma\WindowsFormsAppMacadresialma\obj\Debug\WindowsFormsAppMacadresialma.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\WindowsFormsAppMacadresialma\WindowsFormsAppMacadresialma\obj\Debug\WindowsFormsAppMacadresialma.exe
+c:\users\user\source\repos\WindowsFormsAppMacadresialma\WindowsFormsAppMacadresialma\obj\Debug\WindowsFormsAppMacadresialma.pdb
+c:\users\user\source\repos\WindowsFormsAppMacadresialma\WindowsFormsAppMacadresialma\obj\Debug\WindowsFormsAppMacadresialma.Form1.resources
+c:\users\user\source\repos\WindowsFormsAppMacadresialma\WindowsFormsAppMacadresialma\bin\Debug\WindowsFormsAppMacadresialma.exe.manifest
+c:\users\user\source\repos\WindowsFormsAppMacadresialma\WindowsFormsAppMacadresialma\bin\Debug\WindowsFormsAppMacadresialma.application
+c:\users\user\source\repos\WindowsFormsAppMacadresialma\WindowsFormsAppMacadresialma\obj\Debug\WindowsFormsAppMacadresialma.exe.manifest
+c:\users\user\source\repos\WindowsFormsAppMacadresialma\WindowsFormsAppMacadresialma\obj\Debug\WindowsFormsAppMacadresialma.application
